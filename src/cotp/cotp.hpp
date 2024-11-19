@@ -9,7 +9,7 @@
 
 #pragma once
 
-#include "cotp/otp_uri.hpp"
+#include "otp_uri.hpp"
 
 #include <map>
 #include <memory>

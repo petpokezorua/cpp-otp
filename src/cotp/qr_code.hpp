@@ -10,7 +10,7 @@
 #pragma once
 
 #include <memory>
-#include <qrcodegen.hpp>
+#include </home/zorya/NTC50/BaiTapLon/LoginRewardsProgram/cpp-otp/deps/QR-Code-generator/qrcodegen.hpp>
 #include <string>
 
 namespace cotp
